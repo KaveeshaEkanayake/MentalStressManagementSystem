@@ -1,7 +1,8 @@
 import React, { useContext, useState } from 'react';
 import { assets } from '../assets/assets';
 import { AppContent } from '../context/AppContext.jsx';
-import { AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion'; // ✅ Make sure this is here
+
 
 const Header = () => {
   const { userdata } = useContext(AppContent);

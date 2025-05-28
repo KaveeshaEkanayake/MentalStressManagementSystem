@@ -41,7 +41,7 @@ const Login = () => {
                   if(data.success){
                     setIsLoggedin(true)
                     getUserData()
-                    navigate('/')
+                    navigate('/dashboard')
                   }else{
                     toast.error(data.message)
                   }
