@@ -11,9 +11,6 @@ import {
   git,
   figma,
   docker,
-  wolfy,
-  tobby,
-  luna,
   carrent,
   jobit,
   tripguide,
@@ -21,7 +18,10 @@ import {
   chatbot,
   communityforum,
   journalnew,
-  gamenew
+  gamenew,
+  sophia,
+  adrian,
+  chole
 } from "../assets";
 
 export const navLinks = [
@@ -115,16 +115,16 @@ const technologies = [
 
 const testimonials = [
   {
-    name: "Wolfy",
-    image: wolfy,
+    name: "Sophia",
+    image: sophia,
   },
   {
-    name: "Tobby",
-    image: tobby,
+    name: "Adrian",
+    image: adrian,
   },
   {
-    name: "Luna",
-    image: luna,
+    name: "Chloe",
+    image: chole,
   },
 ];
 

@@ -10,7 +10,9 @@ import chatbot from "./chatbot.png";
 import communityforum from"./communityforum.png";
 import journalnew from "./journalnew.png";
 import gamenew from "./gamenew.png";
-
+import sophia from "./sophia.png";
+import adrian from "./adrian.png";
+import chole from "./chole.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -37,7 +39,7 @@ import tripguide from "./tripguide.png";
 
 import wolfy from "./wolfy.png";
 import tobby from "./tobby.png";
-import luna from "./luna.png";
+
 
 export {
   logo,
@@ -74,5 +76,8 @@ export {
   tripguide,
   wolfy,
   tobby,
-  luna
+  sophia,
+  adrian,
+  chole
+  
 };
