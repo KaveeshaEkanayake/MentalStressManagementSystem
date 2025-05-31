@@ -5,6 +5,10 @@ import mail_icon from './mail_icon.svg'
 import person_icon from './person_icon.svg'
 import hand_wave from './hand_wave.png'
 import header_img from './header_img.png'
+import sophia from './sophia.png'
+import adrian from './adrian.png'
+import chloe from './chloe.png'
+
 
 
 export const assets = {
@@ -15,5 +19,8 @@ export const assets = {
     person_icon,
     hand_wave,
     header_img,
+    sophia,
+    adrian,
+    chloe
     
 }
