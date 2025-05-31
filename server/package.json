@@ -20,6 +20,7 @@
     "mongoose": "^8.13.2",
     "nodemailer": "^6.10.1",
     "nodemon": "^3.1.9",
+    "sentiment": "^5.0.2",
     "server": "file:"
   }
 }

@@ -55,7 +55,6 @@ const Navbar = () => {
           <li onClick={logout} className='py-1 px-2 hover:bg-purple-900 cursor-pointer pr-10'>
             Logout
           </li>
-          <li className='py-1 px-2 hover:bg-purple-900 cursor-pointer'>Change Characters</li>
         </ul>
       </div>
     </div>
